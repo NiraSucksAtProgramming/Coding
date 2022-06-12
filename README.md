@@ -1,4 +1,4 @@
-# Coding
+# Password Generator Thing
 I have no idea how to use github but I'm making my way.... I think. 
 Ok I think I understand a little more now that I actually published this and got a good look at it.
 
